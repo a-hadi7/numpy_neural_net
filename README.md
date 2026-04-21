@@ -1,6 +1,5 @@
-# numpy_neural_net
-NumPy Neural Network from Scratch
-Overview
+# NumPy Neural Network from Scratch
+Overview: 
 This project is a custom Multi-Layer Perceptron (MLP) built entirely from scratch. I created this to deeply understand the mathematics and architecture behind artificial intelligence. I bypassed high-level libraries like PyTorch or TensorFlow. Instead, I programmed the core deep learning mechanics using pure Python and NumPy.
 
 Features
